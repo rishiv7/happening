@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "barton-springs",
+    "name": "Barton Springs Pool",
+    "lat": 30.2638,
+    "lng": -97.7713,
+    "city": "Austin, TX",
+    "record": {
+      "now": [],
+      "live": {
+        "webcam": {
+          "url": "https://its.txdot.gov/its/District/AUS/cameras",
+          "name": "LP-1 @ Barton Springs Blvd",
+          "dist_mi": 0.47
+        },
+        "traffic": {
+          "note": "No active incidents within 3 mi; 2 full and 6 partial lane closures within 0.5 mi",
+          "as_of": "2026-10-20T00:11:37+00:00",
+          "level": "Steady",
+          "source": "TxDOT Austin + City of Austin"
+        },
+        "weather": {
+          "cond": "Partly Cloudy",
+          "hour": "2026-10-19T19:00:00-05:00",
+          "temp": 74,
+          "unit": "F",
+          "wind": "Calm",
+          "source": "NWS"
+        }
+      },
+      "meta": {
+        "anomaly": false,
+        "last_run": {
+          "social": "2026-10-20T00:11:13Z",
+          "curator": "2026-10-20T00:13:27.098829+00:00",
+          "reviews": "2026-10-20T00:11:32.626309+00:00",
+          "sensors": "2026-10-20T00:11:42.779923+00:00",
+          "calendar": "2026-10-19T23:33:42.443645+00:00"
+        },
+        "gmaps_url": "https://www.google.com/maps/search/?api=1&query=Barton+Springs+Pool+Austin+TX",
+        "sensors_gaps": {
+          "checked_at": "2026-10-19T23:32:55+00:00",
+          "foot_traffic": "Google popular times not retrievable from plain web fetch; not written"
+        },
+        "txdot_camera": {
+          "name": "LP-1 @ Barton Springs Blvd",
+          "icd_id": "LP-1 @ Barton Springs Blvd (500) 66",
+          "dist_mi": 0.47,
+          "page_url": "https://its.txdot.gov/its/District/AUS/cameras"
+        },
+        "social_hourly": [
+          {
+            "hour": "2026-10-19T23:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          },
+          {
+            "hour": "2026-10-20T00:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          }
+        ],
+        "gmaps_place_id": "ChIJd5ltTj3KRIYRpipD_pz6ntA",
+        "nws_hourly_url": "https://api.weather.gov/gridpoints/EWX/155,91/forecast/hourly",
+        "rating_history": [
+          {
+            "date": "2026-10-20",
+            "count": 10969,
+            "rating": 4.6
+          }
+        ],
+        "gmaps_place_url": "https://www.google.com/maps/search/?api=1&query=Barton%20Springs%20Pool&query_place_id=ChIJd5ltTj3KRIYRpipD_pz6ntA",
+        "social_velocity": 0,
+        "social_velocity_as_of": "2026-10-20T00:08:44Z"
+      },
+      "social": [],
+      "volume": {
+        "band": "Humming",
+        "score": 43.4,
+        "inputs": {
+          "review_recency": 56.7,
+          "event_proximity": 98.9,
+          "social_velocity_norm": 0.0,
+          "foot_vs_baseline_norm": null
+        },
+        "missing": [],
+        "weights": {
+          "review_recency": 0.1429,
+          "event_proximity": 0.3571,
+          "social_velocity_norm": 0.5,
+          "foot_vs_baseline_norm": 0
+        },
+        "excluded": [
+          "foot_traffic"
+        ],
+        "computed_at": "2026-10-20T00:13:16Z",
+        "explanation": "Event proximity drove the score (free Night Swims start at 9pm CT, a little under 2 hours away), with a Google review from 3 days ago adding a bit and no posts in the last hour; foot traffic is excluded for now.",
+        "social_norm_method": "no 4-week baseline yet, so posts_last_hour x 10, capped at 100"
+      },
+      "anomaly": false,
+      "reviews": {
+        "as_of": "2026-10-20T00:11:24Z",
+        "count": 10969,
+        "latest": [
+          {
+            "at": "2026-10-16T23:32:12.786Z",
+            "text": "Superb Well worth a visit- only $9 and no tax. Great facilities and amazing swimming. Plenty of life guards and pleasant staff. Lots of\u2026",
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-10-16T16:39:24.889Z",
+            "text": "My fav \ud83e\udd7a\ud83e\udd7a i love Austin so much. The water is cold even on hot days but its the best being here and swimming at night is a whole vibe",
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-10-15T15:36:25.519Z",
+            "text": "Do you really wanna experience what cool mean!! Take a dive. Very suitable for all age group. Super-duper crowded, nevertheless no one t\u2026",
+            "stars": 5,
+            "initial": null
+          }
+        ],
+        "photos": [
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLcXXjd-YNe0qZhZ3ydRhmhAWfwLl-MWEMKQrJrfQzRBHKaXe6QbFmNKBTj4Tv7ac08czrQLKrW0vNlTKt08ZOWVmfQz73FlKb2-caAimGX0PHyWlRYSiUYWVMnqIhqIsEevgRUudqbQzEp5=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLfP54y_1xB6A8lgsLu6JGNfmuTGR54GsRS78PTca4PwujO483gCYINK8ynuYZJ-EBnG2oopzoZ_KN7-zy7AgVTR_SB49KnK7Be_xzyeR4WcQS7DMUaR_8dyWBgM5_CrXh5VlkVo00k93DCM=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLcfXVDZaT1dL2X6w4Kc3nyQ4mXC9wmNQXaGsLdoMpAJAUKqYJWhr1cNm_uSU8oNwU_ie3dj_IFQ3E75QqST5j-mXsEmLvt8d3eDZFus4jTHGdrbKOGBr-x74gfk09aof5znpXPGvChtU9wP=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLfVIASwVzoL2oY06jTd6Xi39HCfHp8n5tg3EfY4-qzkBBlJQWdL93wvy4iOqh7rZifLFlAiRD3vBvky7VHK96NHZ2fNDM2m1lCrXgIogGCfY-GMSYleyHbMe0cE8iH7c4meTAM_Q5FSQOjW=k-no"
+        ],
+        "rating": 4.6,
+        "source": "google_maps",
+        "trend_7d": null
+      },
+      "summary": "Barton Springs Pool is quiet right now with no social posts in the last hour, and free Night Swims start at 9pm CT tonight. Later this week there's a Monkey Tree volunteer swim on Friday and a Save Our Springs snorkel Saturday morning; traffic is steady, but expect 2 full lane closures nearby.",
+      "upcoming": [
+        {
+          "url": "https://www.outgoing.world/activity/night-swims-eb8b9db34a2a",
+          "when": "2026-10-19T21:00:00-05:00",
+          "title": "Night Swims (nightly at 9pm, free)",
+          "source": "outgoing.world"
+        },
+        {
+          "url": "https://austinparks.org/events/volunteer-monkey-tree-fall-refresh-and-swim/",
+          "when": "2026-10-23T17:00:00-05:00",
+          "title": "Volunteer: Monkey Tree Fall Refresh and Swim",
+          "source": "austinparks.org"
+        },
+        {
+          "url": "https://thelocalradar.com/event/lo-austin-sabado-snorkel-con-save-our-springs/",
+          "when": "2026-10-24T08:45:00-05:00",
+          "title": "LO Austin: Sabado Snorkel con Save Our Springs",
+          "source": "thelocalradar.com"
+        },
+        {
+          "url": "https://events.musicofourdesire.com/event/yvc5-weekly-drum-circle-live-austin-united-states",
+          "when": "2026-10-25T17:30:00-05:00",
+          "title": "Weekly Drum Circle behind the South Gate",
+          "source": "musicofourdesire.com"
+        }
+      ],
+      "posts_last_hour": 0
+    },
+    "updated_at": "2026-10-20T00:13:27.098829+00:00"
+  },
+  {
+    "id": "moody-center",
+    "name": "Moody Center",
+    "lat": 30.2818,
+    "lng": -97.7322,
+    "city": "Austin, TX",
+    "record": {
+      "now": [
+        {
+          "t": "2026-10-19T23:00:00Z",
+          "title": "Staind with Seether, Hoobastank and Hinder is on now (show started at 6pm CT).",
+          "source": "moodycenteratx.com",
+          "confidence": 0.85,
+          "expires_at": "2026-10-20T04:00:00Z"
+        },
+        {
+          "t": "2026-10-20T00:13:16Z",
+          "title": "Concertgoers are posting from inside Moody Center, with 6 Instagram posts in the last hour.",
+          "source": "Instagram",
+          "confidence": 0.8,
+          "expires_at": "2026-10-20T01:15:00Z"
+        }
+      ],
+      "live": {
+        "webcam": {
+          "url": "https://its.txdot.gov/its/District/AUS/cameras",
+          "name": "IH-35 @ East MLK Blvd",
+          "dist_mi": 0.22
+        },
+        "traffic": {
+          "note": "Disabled Vehicle at IH-35 @ Airport Blvd (1.7 mi) +1 more within 3 mi; 0 full and 11 partial lane closures within 0.5 mi",
+          "as_of": "2026-10-20T00:11:37+00:00",
+          "level": "Steady",
+          "source": "TxDOT Austin + City of Austin"
+        },
+        "weather": {
+          "cond": "Partly Cloudy",
+          "hour": "2026-10-19T19:00:00-05:00",
+          "temp": 74,
+          "unit": "F",
+          "wind": "Calm",
+          "source": "NWS"
+        }
+      },
+      "meta": {
+        "anomaly": false,
+        "last_run": {
+          "social": "2026-10-20T00:11:13Z",
+          "curator": "2026-10-20T00:13:27.098829+00:00",
+          "reviews": "2026-10-20T00:11:32.626309+00:00",
+          "sensors": "2026-10-20T00:11:42.779923+00:00",
+          "calendar": "2026-10-19T23:33:42.443645+00:00"
+        },
+        "gmaps_url": "https://www.google.com/maps/search/?api=1&query=Moody+Center+Austin+TX",
+        "sensors_gaps": {
+          "checked_at": "2026-10-19T23:32:55+00:00",
+          "foot_traffic": "Google popular times not retrievable from plain web fetch; not written"
+        },
+        "txdot_camera": {
+          "name": "IH-35 @ East MLK Blvd",
+          "icd_id": "IH-35 @ East MLK Blvd (1900)",
+          "dist_mi": 0.22,
+          "page_url": "https://its.txdot.gov/its/District/AUS/cameras"
+        },
+        "social_hourly": [
+          {
+            "hour": "2026-10-19T23:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 8
+          },
+          {
+            "hour": "2026-10-20T00:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          }
+        ],
+        "gmaps_place_id": "ChIJFyXMCz21RIYRFA1vxCkln0I",
+        "nws_hourly_url": "https://api.weather.gov/gridpoints/EWX/156,91/forecast/hourly",
+        "rating_history": [
+          {
+            "date": "2026-10-20",
+            "count": 4676,
+            "rating": 4.4
+          }
+        ],
+        "gmaps_place_url": "https://www.google.com/maps/search/?api=1&query=Moody%20Center&query_place_id=ChIJFyXMCz21RIYRFA1vxCkln0I",
+        "social_velocity": 0,
+        "social_velocity_as_of": "2026-10-20T00:08:44Z"
+      },
+      "social": [
+        {
+          "ts": "2026-10-19T23:42:22Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/Desdq3pkfFf/",
+          "text": "Weezer blew the damn roof off last night in the ATX!\n\ud83e\udd18\ud83d\udd25\ud83e\udd18@weezer @moodycenteratx \n\n#weezer #concertlife #livemusic #moodycenter #austintexas",
+          "handle": "@atxconcertguy512",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/857868936_18633776251060726_4104967044355240198_n.jpg?stp=dst-jpegr_e35_s1080x1080_tt6&_nc_cat=104&ig_cache_key=NDAxMTcwNjgwNjc4MjE2MjAwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=E_m2-dWNMbwQ7kNvwGXv_Mq&_nc_oc=AdqJXyFjCwndroPTv7sIUCUJMaoILi6OcbwYGcfbXUAwv16IyWsPrYCYS5XZclvplomO4JmpB23FeyyHn1ssy7iu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQMZetQqk3GiK6tEQih4APuT0SvAyxNEOg-U4um8ZNPXIA&oe=6ADC88F5",
+          "engagement": 3
+        },
+        {
+          "ts": "2026-10-19T23:41:01Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/Desdg_XCRuT/",
+          "text": "With the oldest for Staind \ud83e\udd18\ud83c\udffc\ud83c\udfb8",
+          "handle": "@m1k3sands",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t39.30808-6/857201209_10234885126455221_129926270570348259_n.jpg?stp=c0.304.1152.1440a_dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMTcxMTE3ODQ4NDU1NDY0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Nhd2393-byIQ7kNvwGDFMI3&_nc_oc=AdpR4ytiQVwE0m2vy5lh_0AbJ4NUjTu7Oj5hfpwevhf_hOgZ_m58h8NXXq4EUrqBhsuWMFYpHGBzgqKvu_j61vbj&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQPWcjfdD7yqGV_W_F2cYkBadeztM1UkrWIEEOj5F_oWgA&oe=6ADC745B",
+          "engagement": 2
+        },
+        {
+          "ts": "2026-10-19T23:34:14Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DescvNGIOTw/",
+          "text": "Staind Hinder Hoobastank and Seether. \ud83e\udd18",
+          "handle": "@rosebudnurse",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t39.30808-6/855489183_10237642415573767_4387889580815564032_n.jpg?stp=c0.64.1536.1920a_cp6_dst-jpegr_e35_s1080x1080_tt6&_nc_cat=104&ig_cache_key=NDAxMTcwNzc1NzI1OTQ0OTU4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUzNi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mWHSaI18_9QQ7kNvwEBA1_M&_nc_oc=Adqc3qR8nUtzZj8rPKkiZNNitqNHyerCjkzPNXH-A_6xGHRcpnkThvLvk9W19BuKxWhmdx48r-I8axIFRw2w7tK2&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQP7_XGklZ_Ja-KJ7bbdXvn8JcwKhvKA9KGCYHYPATLvog&oe=6ADC80B7",
+          "engagement": 1
+        },
+        {
+          "ts": "2026-10-19T23:24:32Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesboS4EYHf/",
+          "text": "So awesome FINALLY catching The Shins! @theshins @moodycenteratx \n\n#theshins #concertlife #livemusic #moodycenter #austintexas",
+          "handle": "@atxconcertguy512",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/858245627_18633772933060726_7306269327034524094_n.jpg?stp=dst-jpegr_e35_s1080x1080_tt6&_nc_cat=104&ig_cache_key=NDAxMTcwMTAwMjcyOTUwMjI5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2FcBUfzR178Q7kNvwF1N2wf&_nc_oc=AdoDS24MRdyL0q1dWCI7fyMFJ7HUchJXoowzYMbJuwdpglgCXwXo51FKrBT4A5xEPPL6WgwX2BaZcGholl0QM6MX&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQMkftr4NYeifypEtjYZMjyc9KcZyaW7PEtJk8Z3j9_hcg&oe=6ADC7A8F",
+          "engagement": 0
+        },
+        {
+          "ts": "2026-10-19T23:21:47Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesbUGTlkPu/",
+          "text": "Weezer\ud83c\udfb8\ud83e\udea9\ud83e\udd0d",
+          "handle": "@sophieszapata",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/857116366_17940795393376449_5440342884594631427_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=NDAxMTcwMDc3MTU5NzMwMDc4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI0Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=A5vcVU7KKXwQ7kNvwHYcWTz&_nc_oc=AdpMS0E4itAkr4x-wCm2ksvFU5wh2NI-5qU1k-ndtH1eBONaRlkhpiSsGAvnRh-pXVXw75S-db5PC6ct2GtZKR9m&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQM_9dC5tP-vGjhGHkQ8m6cdlnxOKmnDEiaVB8gVO2ugaw&oe=6ADC8D07",
+          "engagement": 32
+        },
+        {
+          "ts": "2026-10-19T23:13:41Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesaYznjYrU/",
+          "text": "\u2729\u2729\u2729\n10\u20227\u202226",
+          "handle": "@_caitlyn.8_",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/857415185_18481464337113250_8824513097354280861_n.jpg?stp=dst-jpegr_e35_s1080x1080_tt6&_nc_cat=106&ig_cache_key=NDAxMTY5NjAxMTU0MDIxOTQzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDAzMi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VrIz612T7JEQ7kNvwEFOGnb&_nc_oc=AdoVCtfvEiZLN0WVmk5QD9PQfgHCtFcLfRoKMlKkGpIY23oRsdYqr7_pcMXwq07ytICac-DgZiRQWbukZ3XU_W1j&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQMFLDzu97EjH1JGdvzQjaUU-Tl71wC4iDH2blakClCMAw&oe=6ADC705B",
+          "engagement": 3
+        },
+        {
+          "ts": "2026-10-19T23:03:58Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesZRazID-w/",
+          "text": "Feeling happy",
+          "handle": "@gval.adez",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t39.30808-6/853566745_1165089406581229_5275168672450759783_n.jpg?stp=c0.64.1536.1920a_dst-jpg_e35_s1080x1080_tt6&_nc_cat=108&ig_cache_key=NDAxMTY5MjUxNjI0OTE5MDMyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=eweEsgPw7i0Q7kNvwHRS-X-&_nc_oc=AdojuWhDjG35A6y80dfjWDDd19-5UnOXmcMUEkf_Ue1vCLv2cCMa8ZCWmIV-5MbrNcmMTWj_86fj9SjWqjjQLicl&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQNMo9khvUr58EXo0rfgxZP7gQNRknFZYwrps5Z1POiTYw&oe=6ADC6C16",
+          "engagement": 0
+        },
+        {
+          "ts": "2026-10-19T23:01:33Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesY__wkUiT/",
+          "text": "@majidjordan live @moodycenteratx (2026)",
+          "handle": "@thatkidcarter",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/857049851_18646541050023299_6065860559814585286_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=NDAxMTY4NzY1ODk3OTIzMjE1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=PRARcq1n7pMQ7kNvwEggDrY&_nc_oc=AdqWRwcsC3Y2v8a4HlyzOwmnkfTXcA2rH3YJF8k9yRkFvsSwHvVb0PW2cv_grgUjtSEGycj94ezANULim5pZOZ5r&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQPT9S_dtoFjOYtaW4CmpjIWFUh6FMF2sfvkwS7xOht7rA&oe=6ADC7235",
+          "engagement": 2
+        },
+        {
+          "ts": "2026-10-19T22:57:01Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesYevJFLce/",
+          "text": "@staindofficial @hoobastank @seether @hindermusic #instamood #rocknroll #music #energy #showtime",
+          "handle": "@thejoker3355",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/857674375_18136440385670236_591121244042374147_n.jpg?stp=dst-jpegr_e35_s1080x1080_tt6&_nc_cat=103&ig_cache_key=NDAxMTY4ODM4NzI2ODgzMzE0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDA5Ni5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9BFuB-LRDSUQ7kNvwH1Gqt8&_nc_oc=AdrdNo3fqIO3NjS-cftzvDmfqhDhv9euFxxwD4MTy6B451TGMyTJdEHMWGHn694oP8fm9U9PVOqckRlDqcwl_-Yf&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQPUSAtCUYZJUcJ7wZuVWPovo5y-6wdjHYHHA0R4SrFzyw&oe=6ADC7482",
+          "engagement": 5
+        },
+        {
+          "ts": "2026-10-19T22:56:28Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesYaJ2MBdh/",
+          "text": "Staind!",
+          "handle": "@mr.reginojoey",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/854337691_18127051333894135_6817544326003784340_n.heic?stp=dst-jpg_e35_s1080x1080_tt6&_nc_cat=106&ig_cache_key=NDAxMTY4ODcxODQ3NTcyODczNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pbLDW1yr2C8Q7kNvwExbvkC&_nc_oc=AdqKx6Hy7MSckz4cjskMIPfOoLE-YVLUrY5gN2NxPzAPPGSBCPEUmIv-Gr1kB3eurmdgUBNXLnlaT9Wj1BTWDuW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=OfYFQN1ZIyg0o1-gWsnX6A&_nc_ss=7a3ba&oh=00_AQOxNIZBEU_4T-NHQompOq4SwrKNg8Ntc2d0VvcHT6HzfQ&oe=6ADC942D",
+          "engagement": 0
+        }
+      ],
+      "volume": {
+        "band": "Buzzing",
+        "score": 77.8,
+        "inputs": {
+          "review_recency": 84.7,
+          "event_proximity": 100.0,
+          "social_velocity_norm": 60.0,
+          "foot_vs_baseline_norm": null
+        },
+        "missing": [],
+        "weights": {
+          "review_recency": 0.1429,
+          "event_proximity": 0.3571,
+          "social_velocity_norm": 0.5,
+          "foot_vs_baseline_norm": 0
+        },
+        "excluded": [
+          "foot_traffic"
+        ],
+        "computed_at": "2026-10-20T00:13:16Z",
+        "explanation": "The Staind show that's on now maxed out event proximity and 6 Instagram posts in the last hour pushed social up, with a Google review from yesterday adding a little; foot traffic is excluded for now.",
+        "social_norm_method": "no 4-week baseline yet, so posts_last_hour x 10, capped at 100"
+      },
+      "anomaly": false,
+      "reviews": {
+        "as_of": "2026-10-20T00:11:24Z",
+        "count": 4676,
+        "latest": [
+          {
+            "at": "2026-10-18T22:30:20.320Z",
+            "text": "Great venue, with not so great parking. Lol. Easy to get in and out considering how many people are in there.",
+            "stars": 4,
+            "initial": null
+          },
+          {
+            "at": "2026-10-17T02:22:48.878Z",
+            "text": "This is a great facility and I have been to a number of shows there since it opened. I just went to Gorillaz this week and unfortunately\u2026",
+            "stars": 2,
+            "initial": null
+          },
+          {
+            "at": "2026-10-16T11:23:18.634Z",
+            "text": "Nice place but really expensive!",
+            "stars": 3,
+            "initial": null
+          }
+        ],
+        "photos": [
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLdadCYX1hp4D0SEs2J515n5xP5CuQFLXgZQ5PfxFJXu0XXysCWjeZ70CUJ9mA3qZsBzMr2lQrluKVW2-Bf4omcUUy-a4XogoeUeSWfKJMVxn3_RuRzL5TYCZNVn8r8uk85OhzG8CruZfATa=k-no"
+        ],
+        "rating": 4.4,
+        "source": "google_maps",
+        "trend_7d": null
+      },
+      "summary": "The Staind 25th anniversary show with Seether, Hoobastank and Hinder is on now, and concertgoers are posting from inside the venue. Next up is SOMBR on Tuesday at 7pm CT, and there's a traffic hazard on E 53rd St about 2.5 miles north if you're driving.",
+      "upcoming": [
+        {
+          "url": "https://moodycenteratx.com/event/staind/",
+          "when": "2026-10-19T18:00:00-05:00",
+          "title": "Staind: Break The Cycle 25th Anniversary Tour (with Seether, Hoobastank, Hinder)",
+          "source": "moodycenteratx.com"
+        },
+        {
+          "url": "https://www.ticketmaster.com/moody-center-atx-tickets-austin/venue/476228",
+          "when": "2026-10-20T19:00:00-05:00",
+          "title": "SOMBR: You Are The Reason Tour",
+          "source": "ticketmaster.com"
+        },
+        {
+          "url": "https://www.ticketmaster.com/moody-center-atx-tickets-austin/venue/476228",
+          "when": "2026-10-23T20:30:00-05:00",
+          "title": "San Antonio Spurs vs. Houston Rockets",
+          "source": "ticketmaster.com"
+        },
+        {
+          "url": "https://moodycenteratx.com/event/the-smashing-pumpkins-2026/",
+          "when": "2026-10-25T20:00:00-05:00",
+          "title": "The Smashing Pumpkins: The Rats in a Cage Tour",
+          "source": "moodycenteratx.com"
+        },
+        {
+          "url": "https://moodycenteratx.com/event/dc26/",
+          "when": "2026-10-26T19:30:00-05:00",
+          "title": "Dave Chappelle: Karmageddon",
+          "source": "moodycenteratx.com"
+        }
+      ],
+      "posts_last_hour": 6
+    },
+    "updated_at": "2026-10-20T00:13:27.098829+00:00"
+  },
+  {
+    "id": "q2-stadium",
+    "name": "Q2 Stadium",
+    "lat": 30.3878,
+    "lng": -97.7192,
+    "city": "Austin, TX",
+    "record": {
+      "now": [],
+      "live": {
+        "webcam": {
+          "url": "https://its.txdot.gov/its/District/AUS/cameras",
+          "name": "LP-1 @Braker Ln",
+          "dist_mi": 0.94
+        },
+        "traffic": {
+          "note": "Traffic Hazard at 2000-2200 W Braker Ln (0.7 mi) +1 more within 3 mi; 0 full and 5 partial lane closures within 0.5 mi",
+          "as_of": "2026-10-20T00:11:37+00:00",
+          "level": "Steady",
+          "source": "TxDOT Austin + City of Austin"
+        },
+        "weather": {
+          "cond": "Partly Cloudy",
+          "hour": "2026-10-19T19:00:00-05:00",
+          "temp": 73,
+          "unit": "F",
+          "wind": "Calm",
+          "source": "NWS"
+        }
+      },
+      "meta": {
+        "anomaly": false,
+        "last_run": {
+          "social": "2026-10-20T00:11:13Z",
+          "curator": "2026-10-20T00:13:27.098829+00:00",
+          "reviews": "2026-10-20T00:11:32.626309+00:00",
+          "sensors": "2026-10-20T00:11:42.779923+00:00",
+          "calendar": "2026-10-19T23:33:42.443645+00:00"
+        },
+        "gmaps_url": "https://www.google.com/maps/search/?api=1&query=Q2+Stadium+Austin+TX",
+        "sensors_gaps": {
+          "checked_at": "2026-10-19T23:32:55+00:00",
+          "foot_traffic": "Google popular times not retrievable from plain web fetch; not written"
+        },
+        "txdot_camera": {
+          "name": "LP-1 @Braker Ln",
+          "icd_id": "LP-1 @ Braker Ln (10700) 31",
+          "dist_mi": 0.94,
+          "page_url": "https://its.txdot.gov/its/District/AUS/cameras"
+        },
+        "social_hourly": [
+          {
+            "hour": "2026-10-19T23:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          },
+          {
+            "hour": "2026-10-20T00:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          }
+        ],
+        "gmaps_place_id": "ChIJ3fB6atnLRIYRh-10pmVzQnk",
+        "nws_hourly_url": "https://api.weather.gov/gridpoints/EWX/157,96/forecast/hourly",
+        "rating_history": [
+          {
+            "date": "2026-10-20",
+            "count": 2829,
+            "rating": 4.8
+          }
+        ],
+        "gmaps_place_url": "https://www.google.com/maps/search/?api=1&query=Q2%20Stadium&query_place_id=ChIJ3fB6atnLRIYRh-10pmVzQnk",
+        "social_velocity": 0,
+        "social_velocity_as_of": "2026-10-20T00:08:44Z"
+      },
+      "social": [],
+      "volume": {
+        "band": "Quiet",
+        "score": 23.5,
+        "inputs": {
+          "review_recency": 79.2,
+          "event_proximity": 34.1,
+          "social_velocity_norm": 0.0,
+          "foot_vs_baseline_norm": null
+        },
+        "missing": [],
+        "weights": {
+          "review_recency": 0.1429,
+          "event_proximity": 0.3571,
+          "social_velocity_norm": 0.5,
+          "foot_vs_baseline_norm": 0
+        },
+        "excluded": [
+          "foot_traffic"
+        ],
+        "computed_at": "2026-10-20T00:13:16Z",
+        "explanation": "Review recency and a distant event split the low score (a Google review from yesterday, and the SAFE Alliance Truck-or-Treat is about 111 hours away), with no posts in the last hour; foot traffic is excluded for now.",
+        "social_norm_method": "no 4-week baseline yet, so posts_last_hour x 10, capped at 100"
+      },
+      "anomaly": false,
+      "reviews": {
+        "as_of": "2026-10-20T00:11:24Z",
+        "count": 2829,
+        "latest": [
+          {
+            "at": "2026-10-18T13:20:04.032Z",
+            "text": "Fun atmosphere, great game to watch. After a short warm up period Austin FC put on a game worth watching, despite us coming to see Thoma\u2026",
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-10-16T13:29:39.779Z",
+            "text": "Meh.",
+            "stars": 2,
+            "initial": null
+          },
+          {
+            "at": "2026-10-13T08:12:12.132Z",
+            "text": "Lowering score until they apologize and resolve their recent behavior",
+            "stars": 1,
+            "initial": null
+          }
+        ],
+        "photos": [
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLeL4k9cYAVE3ils4RlguT2mH-ZyjmR9FrwtI74ZWk0bTCXVnmrR_gBnlovKhLXIcF4yar1oxnTbiyQinVum9WyNscu2i_hqDS9t7PGMb9gJADTUmMczOp3EVQf6HWtU20BHPWr0n8Kp94O-=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLfM_b-VRi67w0y6ORum0-OOJWwbJckqyJpFCswEZkgBhjHEKA7vLPSsw833BoM-Qq1eMLJVQ0lnYKzII2W-BjcUi_3LDGHaXhsI5QZeCbmeqRHrXyHnGQ7Eu84YUQm7BpgcmOpb_dfMilw2=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLc6K91b41o2WIp_s-ea-7f4fovOS97ah4JnrNKhxHNfg4Fz9zLIdZPQMgXlO-ztV28napS1R0HOsY4NWrM2waZydM_Z23G0XvFw53Ja8-OdLPnVu2WJep3SRm-Kdy2DJP5MSH2uv2FNJ7Ha=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLdHlz2fzhSzF6ECph7IkKDRnKQlRsUhhhfWrctwGrJIImUQ3IANj3t1IKq7nRQkUKMP8sl2CL0SjRD1F0bg-kAyBDiGqs4YbrFi1Pvz5F2gVg4bxlwlv6topJyPHEhieRN9bgZmxrxlFO6M=k-no"
+        ],
+        "rating": 4.8,
+        "source": "google_maps",
+        "trend_7d": null
+      },
+      "summary": "Nothing is on at Q2 Stadium right now, and the next listed event is the SAFE Alliance Truck-or-Treat on Saturday, Oct 24 at 10am CT. Traffic is steady, but watch for a traffic hazard on W Braker Ln about 0.7 miles away.",
+      "upcoming": [
+        {
+          "url": "https://www.safeaustin.org/get-involved/donate/events/",
+          "when": "2026-10-24T10:00:00-05:00",
+          "title": "SAFE Alliance Truck-or-Treat",
+          "source": "safeaustin.org"
+        }
+      ],
+      "posts_last_hour": 0
+    },
+    "updated_at": "2026-10-20T00:13:27.098829+00:00"
+  },
+  {
+    "id": "rainey-street",
+    "name": "Rainey Street",
+    "lat": 30.2587,
+    "lng": -97.7387,
+    "city": "Austin, TX",
+    "record": {
+      "now": [
+        {
+          "t": "2026-10-19T22:00:00Z",
+          "title": "The MNP Rainey St. Block Party is on now, 5pm to 11pm CT on the 73-88 block of Rainey.",
+          "source": "austintexas.gov",
+          "confidence": 0.9,
+          "expires_at": "2026-10-20T04:00:00Z"
+        },
+        {
+          "t": "2026-10-20T00:06:06Z",
+          "title": "14 full and 21 partial lane closures within half a mile.",
+          "source": "City of Austin + TxDOT",
+          "confidence": 0.8,
+          "expires_at": "2026-10-20T00:36:06Z"
+        }
+      ],
+      "live": {
+        "webcam": {
+          "url": "https://its.txdot.gov/its/District/AUS/cameras",
+          "name": "IH-35 @ Holly",
+          "dist_mi": 0.14
+        },
+        "traffic": {
+          "note": "Crash Urgent at 600-1218 E Ben White Blvd Svrd Wb (3.0 mi); 14 full and 21 partial lane closures within 0.5 mi",
+          "as_of": "2026-10-20T00:11:37+00:00",
+          "level": "Steady",
+          "source": "TxDOT Austin + City of Austin"
+        },
+        "weather": {
+          "cond": "Partly Cloudy",
+          "hour": "2026-10-19T19:00:00-05:00",
+          "temp": 74,
+          "unit": "F",
+          "wind": "Calm",
+          "source": "NWS"
+        }
+      },
+      "meta": {
+        "anomaly": false,
+        "last_run": {
+          "social": "2026-10-20T00:11:13Z",
+          "curator": "2026-10-20T00:13:27.098829+00:00",
+          "reviews": "2026-10-20T00:11:32.626309+00:00",
+          "sensors": "2026-10-20T00:11:42.779923+00:00",
+          "calendar": "2026-10-19T23:33:42.443645+00:00"
+        },
+        "gmaps_url": "https://www.google.com/maps/search/?api=1&query=Rainey+Street+Historic+District+Austin+TX",
+        "sensors_gaps": {
+          "checked_at": "2026-10-19T23:32:55+00:00",
+          "foot_traffic": "Google popular times not retrievable from plain web fetch; not written"
+        },
+        "txdot_camera": {
+          "name": "IH-35 @ Holly",
+          "icd_id": "IH-35 @ Holly (0000)",
+          "dist_mi": 0.14,
+          "page_url": "https://its.txdot.gov/its/District/AUS/cameras"
+        },
+        "social_hourly": [
+          {
+            "hour": "2026-10-19T23:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          },
+          {
+            "hour": "2026-10-20T00:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          }
+        ],
+        "gmaps_place_id": "ChIJy-7W0qu1RIYROCBKgJ3GGmg",
+        "nws_hourly_url": "https://api.weather.gov/gridpoints/EWX/156,90/forecast/hourly",
+        "rating_history": [
+          {
+            "date": "2026-10-20",
+            "count": 205,
+            "rating": 4.4
+          }
+        ],
+        "gmaps_place_url": "https://www.google.com/maps/search/?api=1&query=Rainey%20St&query_place_id=ChIJy-7W0qu1RIYROCBKgJ3GGmg",
+        "social_velocity": 0,
+        "social_velocity_as_of": "2026-10-20T00:08:44Z"
+      },
+      "social": [
+        {
+          "ts": "2026-10-19T22:45:54Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesXNSvFKUF/",
+          "text": "Your favorite demon \ud83e\udd2d\ud83d\ude08\ud83d\udd2a",
+          "handle": "@theshannencummings",
+          "media_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/853815020_18310382263305177_8616101282677157569_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_cat=103&ig_cache_key=NDAxMTY4MzA0MDI4NzM3NjAyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjg4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2vHTxzMEy1QQ7kNvwGtb_bX&_nc_oc=AdrcHZUCwHwisMb3sjv29sufY5oBQYca8OBaaDdsJWCO_Zv6H-QjxcmvRHvuRCloGlY4PDU9B0Ed3iulnWLK2x42&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=X7LrFwr-k_4QWnGFD75kTA&_nc_ss=7a3ba&oh=00_AQO8xrkOTYsBFdZGcIDDYOJidbvHVOaFbCTlSVFB-UXl4g&oe=6ADC9A72",
+          "engagement": 1
+        }
+      ],
+      "volume": {
+        "band": "Humming",
+        "score": 35.7,
+        "inputs": {
+          "review_recency": 0,
+          "event_proximity": 100.0,
+          "social_velocity_norm": 0.0,
+          "foot_vs_baseline_norm": null
+        },
+        "missing": [],
+        "weights": {
+          "review_recency": 0.1429,
+          "event_proximity": 0.3571,
+          "social_velocity_norm": 0.5,
+          "foot_vs_baseline_norm": 0
+        },
+        "excluded": [
+          "foot_traffic"
+        ],
+        "computed_at": "2026-10-20T00:13:16Z",
+        "explanation": "Event proximity drove the score (the MNP Rainey St. Block Party runs until 11pm CT), since nobody posted from Rainey in the last hour and the newest Google review is months old; foot traffic is excluded for now.",
+        "social_norm_method": "no 4-week baseline yet, so posts_last_hour x 10, capped at 100"
+      },
+      "anomaly": false,
+      "reviews": {
+        "as_of": "2026-10-20T00:11:24Z",
+        "count": 205,
+        "latest": [
+          {
+            "at": "2026-07-16T06:14:13.587Z",
+            "text": "Good Evening Austin and Vistors... I have TO EXPLAIN TO EVERYONE...the levels of on going Intentional, Mental Angusih.... Inflicted by D\u2026",
+            "stars": 4,
+            "initial": null
+          },
+          {
+            "at": "2026-07-12T10:24:40.769Z",
+            "text": "Great street for young people to party",
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-08-25T14:13:26.818Z",
+            "text": "",
+            "stars": 5,
+            "initial": null
+          }
+        ],
+        "photos": [
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLco0pD2VRtSM0QvKmPrSCk6pWuWq3QBpkPlqaYvaMs-RNV-SwLSATcQatP3cZVCEb_RcTar7DE-IzFNgdP3bcfVEm1K4Tm5Cttta5aJdL6o0dpM5Zyj4-q5LgfLtD1ahOS4gz9J5DIL3trT=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLcLXLvhJCUhp1f1esdMj7bwd31swWMO-xw0uptzbcDBxOTM6fL-ExKKAZVv5OtT4NVZ4Ds5lmp_auQIsTtjno1fKreAbAR59jFAH-vzTUbedXoZbc_b_lXRbzH7Vz6O4gBWlD0jn-vfMqUm=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLegp3Q53Tt4IniMBz7L_aNxj7HRmXna8HB6DzhSqFMjJUkF8e3tXGo9jhWdNpfPCQVPh4n8TnGx6ki9UaApzT4KOy8gbBlZ0hhIvhOOHz5Cliu7M_MF9Yj6lL78rfIRnFijXnhs71sW-Ur3=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLepHEZmlDqTNb24Y8JnvyliDc6N0H99A7mnmy3rj8GpMP96omCC379D-mEgLBm_H1vWEWU4jZldVC6ZmdITJXjRVwIupkBIg2qAD8DEVDAdnMBpW9HefYR_-L8BBEKoHbMVI8C1tueIUBQ=k-no"
+        ],
+        "rating": 4.4,
+        "source": "google_maps",
+        "trend_7d": null
+      },
+      "summary": "The MNP Rainey St. Block Party is going until 11pm CT on the 73-88 block, and Tuesday brings a comedy open mic at Rainey House at 8pm CT. Skip driving in if you can, since 14 lanes nearby are fully closed.",
+      "upcoming": [
+        {
+          "url": "https://www.austintexas.gov/ace/events/mnp-rainey-st-block-party",
+          "when": "2026-10-19T17:00:00-05:00",
+          "title": "MNP Rainey St. Block Party",
+          "source": "austintexas.gov"
+        },
+        {
+          "url": "https://comedyaustin.com/events/comedy-open-mic-at-rainey-house--discovered-76-rainey-st-1jxu5-1958a3y",
+          "when": "2026-10-20T20:00:00-05:00",
+          "title": "Comedy Open Mic at Rainey House",
+          "source": "comedyaustin.com"
+        },
+        {
+          "url": "https://thetrailconservancy.org/event/music-on-the-trail-series-lou-priest/",
+          "when": "2026-10-23T18:00:00-05:00",
+          "title": "Music on the Trail: Lou Priest at the Rainey Street Trailhead",
+          "source": "thetrailconservancy.org"
+        },
+        {
+          "url": "https://events.musicofourdesire.com/event/lcvf-pda-band-live-austin-united-states",
+          "when": "2026-10-25T17:00:00-05:00",
+          "title": "PDA Band at Half Step",
+          "source": "musicofourdesire.com"
+        }
+      ],
+      "posts_last_hour": 0
+    },
+    "updated_at": "2026-10-20T00:13:27.098829+00:00"
+  },
+  {
+    "id": "sixth-street",
+    "name": "Sixth Street",
+    "lat": 30.2672,
+    "lng": -97.7395,
+    "city": "Austin, TX",
+    "record": {
+      "now": [
+        {
+          "t": "2026-10-20T00:06:06Z",
+          "title": "14 full and 41 partial lane closures within half a mile.",
+          "source": "City of Austin + TxDOT",
+          "confidence": 0.8,
+          "expires_at": "2026-10-20T00:36:06Z"
+        }
+      ],
+      "live": {
+        "webcam": {
+          "url": "https://its.txdot.gov/its/District/AUS/cameras",
+          "name": "IH-35 @ 6th",
+          "dist_mi": 0.33
+        },
+        "traffic": {
+          "note": "Disabled Vehicle at IH-35 @ Airport Blvd (2.8 mi); 14 full and 41 partial lane closures within 0.5 mi",
+          "as_of": "2026-10-20T00:11:37+00:00",
+          "level": "Steady",
+          "source": "TxDOT Austin + City of Austin"
+        },
+        "weather": {
+          "cond": "Partly Cloudy",
+          "hour": "2026-10-19T19:00:00-05:00",
+          "temp": 74,
+          "unit": "F",
+          "wind": "Calm",
+          "source": "NWS"
+        }
+      },
+      "meta": {
+        "anomaly": false,
+        "last_run": {
+          "social": "2026-10-20T00:11:13Z",
+          "curator": "2026-10-20T00:13:27.098829+00:00",
+          "reviews": "2026-10-20T00:11:32.626309+00:00",
+          "sensors": "2026-10-20T00:11:42.779923+00:00",
+          "calendar": "2026-10-19T23:33:42.443645+00:00"
+        },
+        "gmaps_url": "https://www.google.com/maps/search/?api=1&query=Sixth+Street+Austin+TX",
+        "sensors_gaps": {
+          "checked_at": "2026-10-19T23:32:55+00:00",
+          "foot_traffic": "Google popular times not retrievable from plain web fetch; not written"
+        },
+        "txdot_camera": {
+          "name": "IH-35 @ 6th",
+          "icd_id": "IH-35 @ 6th (0500)",
+          "dist_mi": 0.33,
+          "page_url": "https://its.txdot.gov/its/District/AUS/cameras"
+        },
+        "social_hourly": [
+          {
+            "hour": "2026-10-19T23:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          },
+          {
+            "hour": "2026-10-20T00:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          }
+        ],
+        "gmaps_place_id": "ChIJxb5V97C1RIYRwH58cz83UVM",
+        "nws_hourly_url": "https://api.weather.gov/gridpoints/EWX/156,91/forecast/hourly",
+        "rating_history": [
+          {
+            "date": "2026-10-20",
+            "count": 69,
+            "rating": 4.6
+          }
+        ],
+        "gmaps_place_url": "https://www.google.com/maps/search/?api=1&query=E%206th%20St&query_place_id=ChIJxb5V97C1RIYRwH58cz83UVM",
+        "social_velocity": 0,
+        "gmaps_place_title": "Sixth Street Historic District",
+        "gmaps_place_address": "Austin, TX 78701",
+        "social_velocity_as_of": "2026-10-20T00:08:44Z"
+      },
+      "social": [
+        {
+          "ts": "2026-10-19T22:35:10Z",
+          "net": "X",
+          "url": "https://twitter.com/DickManicure/status/2112311623528358235",
+          "text": "@libsoftiktok @RoundRockISD Suburb of Austin. Most of their students end up living under I-35 and Sixth Street.",
+          "handle": "@DickManicure",
+          "media_url": null,
+          "engagement": 1
+        },
+        {
+          "ts": "2026-10-19T22:15:36Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesS_9zMKkQ/",
+          "text": "one of my favorite parts of making music is bringing the visuals story in my head to life. being independent means finding creative ways to make it happen, and honestly, that\u2019s best part for me.\n\nmore to come. CH00SY out now. \ud83c\udf10\ud83d\udc99\ud83c\udfae\n\n#altrnb #atxmusic #rnbartist",
+          "handle": "@jonnyjukebox",
+          "media_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/856155496_1090243560302115_2046338818645094204_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=103&cb=30a688f7-99daaf84&ig_cache_key=NDAxMTY2NDkyODYwMTU4MTg0MDEwOTAyNDM1NTY5Njg3ODI%3D.3-ccb7-5-cb30a688f7-99daaf84&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=1ZEzFOeGsbYQ7kNvwFi8pYB&_nc_oc=AdoJiQadc3_Z4TVyJbFtivzBOzwHJx4DrRlLK2EoeSrOpPhOcnfWZzp8jwL8j-yI_OnAVurFHzJUCQZuD8Ov7TEm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=hKl1v6-SA4018BL6onT_4Q&_nc_ss=7a3ba&oh=00_AQObGEplU83DU4LF8gJsZwyMNncAjbV9L-8YDfDQNmO7ZA&oe=6ADC6414",
+          "engagement": 4
+        }
+      ],
+      "volume": {
+        "band": "Quiet",
+        "score": 27.0,
+        "inputs": {
+          "review_recency": 0,
+          "event_proximity": 75.7,
+          "social_velocity_norm": 0.0,
+          "foot_vs_baseline_norm": null
+        },
+        "missing": [],
+        "weights": {
+          "review_recency": 0.1429,
+          "event_proximity": 0.3571,
+          "social_velocity_norm": 0.5,
+          "foot_vs_baseline_norm": 0
+        },
+        "excluded": [
+          "foot_traffic"
+        ],
+        "computed_at": "2026-10-20T00:13:16Z",
+        "explanation": "Event proximity drove the score (Dreadneck Wednesdays at Flamingo Cantina is the next listed show in the E 6th St district, about 41 hours out by a midday estimate), since there were no posts in the last hour and the newest Google review is months old; foot traffic is excluded for now.",
+        "social_norm_method": "no 4-week baseline yet, so posts_last_hour x 10, capped at 100"
+      },
+      "anomaly": false,
+      "reviews": {
+        "as_of": "2026-10-20T00:11:24Z",
+        "count": 69,
+        "latest": [
+          {
+            "at": "2026-08-14T14:03:56.308Z",
+            "text": "\u8857\u6b69\u304d\u3092\u697d\u3057\u307f\u305f\u3044\u306a\u3089\u3001\u305c\u3072\u6b69\u3044\u3066\u307f\u3066\u307b\u3057\u3044\u30a8\u30ea\u30a2\u263a\ufe0f\ud83c\uddfa\ud83c\uddf8\u663c\u3068\u591c\u3067\u96f0\u56f2\u6c17\u304c\u30ac\u30e9\u30c3\u3068\u5909\u308f\u308b\u306e\u304c\u9762\u767d\u304f\u3066\u3001\u30ab\u30d5\u30a7\u3084\u30d0\u30fc\u3001\u30ec\u30b9\u30c8\u30e9\u30f3\u3001\u30b7\u30e7\u30c3\u30d7\u306a\u3069\u304c\u96c6\u307e\u3063\u3066\u3044\u308b\u306e\u3067\u3001\u3076\u3089\u3076\u3089\u6b69\u304f\u3060\u3051\u3067\u3082\u697d\u3057\u3081\u307e\u3059\ud83c\udf7a\ud83c\udfb6\u7279\u306b\u591c\u306b\u306a\u308b\u3068\u97f3\u697d\u3084\u4eba\u306e\u6d3b\u6c17\u304c\u5897\u3057\u3066\u3001\u30aa\u30fc\u30b9\u30c6\u30a3\u30f3\u3089\u3057\u3044\u81ea\u7531\u3067\u306b\u304e\u3084\u304b\u306a\u7a7a\u6c17\u3092\u2026",
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-03-29T15:46:16.428Z",
+            "text": "Perfect for ubering",
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-01-06T14:00:12.016Z",
+            "text": "East 6th Street is much nicer than West. Nicer bars, more chill, better restaurants. More just hanging out and listening to music, then\u2026",
+            "stars": 5,
+            "initial": null
+          }
+        ],
+        "photos": [
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLd56jQgXYBgvkLOAPdZo7yZ6Z7ciKfEFAas4VTDR6EQw4LmJ5RrMZaAb7m0STG1tfHiJvyjnsyVQLZ0FkoNTjdBdyGEc2erd30mlSISdMzSQTbjIKrewdu-T2HnHlWM5362a1K8thd4-e5r=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLeqACwZvklAnwFNvSmDX7Nlq_UXpwS-edcegiKwByynmjZd_EXILpyfV0Jcu1LqjjDw2zfJIodaongdxyWqF3oR8dF-ED-y_qLz_RM3hEm4cQKQxfQtK-gnUxlErx2tVrEmyidiWDd2JnQJ=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLf5eCSKfVS8ZxNISHZKkaJymSk1Wzw9BhpibDM2L-RJmP4Qs_vdk-H4tdoHvj3j67PDI1ZgoJr1ML3DDcPUtUl4bTGl_ZobbDt4MQAaHN1jxpVaonNphORO1P_E6JWroEMZ2HIjGmCaNy5Y=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLdh_gSOk3hVCjqOg1o6MAjTu29AkDSnn3YYpNaHPR-_yTrAMt72WZiK1oNEEMJY1AUNJSg71S8b7BDvSVwejlttqXNvL1sowpt33RQ4SxKCI8PIiwC9GsW4ZnD7AWBgJKA5sa-BUmQSdC7d=k-no"
+        ],
+        "rating": 4.6,
+        "source": "google_maps",
+        "trend_7d": null
+      },
+      "summary": "Nothing is listed on Sixth Street tonight, and the next shows in the district are Dreadneck Wednesdays at Flamingo Cantina and a Pink Floyd tribute there on Friday. Avoid driving through if you can, since 14 lanes nearby are fully closed.",
+      "upcoming": [
+        {
+          "url": "https://events.extrachill.com/events/los-kurados-flying-raccoon-suit-jokers-republic-sad-snack",
+          "when": "2026-10-20",
+          "title": "Los Kurados, Flying Raccoon Suit, Joker's Republic, Sad Snack at Hotel Vegas",
+          "source": "extrachill.com"
+        },
+        {
+          "url": "https://texashotelvegas.com/tickets/",
+          "when": "2026-10-21",
+          "title": "Tempesst at Hotel Vegas",
+          "source": "texashotelvegas.com"
+        },
+        {
+          "url": "https://texashotelvegas.com/event/season-of-the-witch-karaoke-hosted-by-bee/",
+          "when": "2026-10-21",
+          "title": "Season of the Witch Karaoke hosted by Bee",
+          "source": "texashotelvegas.com"
+        },
+        {
+          "url": "https://flamingocantina.com/calendar/list/",
+          "when": "2026-10-21",
+          "title": "Dreadneck Wednesdays at Flamingo Cantina",
+          "source": "flamingocantina.com"
+        },
+        {
+          "url": "https://texashotelvegas.com/tickets/",
+          "when": "2026-10-22",
+          "title": "KUTX presents Dom Francis, je'Texas, Alicia Gail at Hotel Vegas",
+          "source": "texashotelvegas.com"
+        },
+        {
+          "url": "https://flamingocantina.com/calendar/list/",
+          "when": "2026-10-23",
+          "title": "Pink Floyd tribute at Flamingo Cantina",
+          "source": "flamingocantina.com"
+        },
+        {
+          "url": "https://texashotelvegas.com/event/the-saint-cecilia-costa-rica/",
+          "when": "2026-10-24",
+          "title": "The Saint Cecilia (Costa Rica) at Hotel Vegas",
+          "source": "texashotelvegas.com"
+        },
+        {
+          "url": "https://flamingocantina.com/calendar/list/",
+          "when": "2026-10-24",
+          "title": "Da Funk Queen & Da Mix with Deuce at Flamingo Cantina",
+          "source": "flamingocantina.com"
+        }
+      ],
+      "posts_last_hour": 0
+    },
+    "updated_at": "2026-10-20T00:13:27.098829+00:00"
+  },
+  {
+    "id": "south-congress",
+    "name": "South Congress",
+    "lat": 30.25,
+    "lng": -97.7494,
+    "city": "Austin, TX",
+    "record": {
+      "now": [],
+      "live": {
+        "webcam": {
+          "url": "https://its.txdot.gov/its/District/AUS/cameras",
+          "name": "IH-35 @ E Riverside",
+          "dist_mi": 0.89
+        },
+        "traffic": {
+          "note": "Crash Urgent at 600-1218 E Ben White Blvd Svrd Wb (2.3 mi); 2 full and 14 partial lane closures within 0.5 mi",
+          "as_of": "2026-10-20T00:11:37+00:00",
+          "level": "Steady",
+          "source": "TxDOT Austin + City of Austin"
+        },
+        "weather": {
+          "cond": "Partly Cloudy",
+          "hour": "2026-10-19T19:00:00-05:00",
+          "temp": 74,
+          "unit": "F",
+          "wind": "Calm",
+          "source": "NWS"
+        }
+      },
+      "meta": {
+        "anomaly": false,
+        "last_run": {
+          "social": "2026-10-20T00:11:13Z",
+          "curator": "2026-10-20T00:13:27.098829+00:00",
+          "reviews": "2026-10-20T00:11:32.626309+00:00",
+          "sensors": "2026-10-20T00:11:42.779923+00:00",
+          "calendar": "2026-10-19T23:33:42.443645+00:00"
+        },
+        "gmaps_url": "https://www.google.com/maps/search/?api=1&query=South+Congress+Avenue+Austin+TX",
+        "sensors_gaps": {
+          "checked_at": "2026-10-19T23:32:55+00:00",
+          "foot_traffic": "Google popular times not retrievable from plain web fetch; not written"
+        },
+        "txdot_camera": {
+          "name": "IH-35 @ E Riverside",
+          "icd_id": "IH-35 @ E Riverside (1000)",
+          "dist_mi": 0.89,
+          "page_url": "https://its.txdot.gov/its/District/AUS/cameras"
+        },
+        "social_hourly": [
+          {
+            "hour": "2026-10-19T23:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          },
+          {
+            "hour": "2026-10-20T00:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          }
+        ],
+        "gmaps_place_id": "ChIJdyeRpqO0RIYRnfuyalxBf3E",
+        "nws_hourly_url": "https://api.weather.gov/gridpoints/EWX/156,90/forecast/hourly",
+        "rating_history": [
+          {
+            "date": "2026-10-20",
+            "count": 67,
+            "rating": 4.7
+          }
+        ],
+        "gmaps_place_url": "https://www.google.com/maps/search/?api=1&query=S%20Congress%20Ave&query_place_id=ChIJdyeRpqO0RIYRnfuyalxBf3E",
+        "social_velocity": 0,
+        "social_velocity_as_of": "2026-10-20T00:08:44Z"
+      },
+      "social": [
+        {
+          "ts": "2026-10-19T22:19:50Z",
+          "net": "X",
+          "url": "https://twitter.com/AustinBatRefuge/status/2112307764873843114",
+          "text": "Trapped in a building, this bat almost starved. But Brandon saved him and Oliver brought him down from Temple. Now many of his buddies are at Congress as they make their way south.\n.\n.\n#mexicanfreetailedbats #congressbridgebats #austinbats https://t.co/OWnq731gf3",
+          "handle": "@AustinBatRefuge",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2112307610342899712/img/zYgFkN3M00umr0dU.jpg",
+          "engagement": 26
+        }
+      ],
+      "volume": {
+        "band": "Humming",
+        "score": 33.9,
+        "inputs": {
+          "review_recency": 0,
+          "event_proximity": 95.0,
+          "social_velocity_norm": 0.0,
+          "foot_vs_baseline_norm": null
+        },
+        "missing": [],
+        "weights": {
+          "review_recency": 0.1429,
+          "event_proximity": 0.3571,
+          "social_velocity_norm": 0.5,
+          "foot_vs_baseline_norm": 0
+        },
+        "excluded": [
+          "foot_traffic"
+        ],
+        "computed_at": "2026-10-20T00:13:16Z",
+        "explanation": "Event proximity drove the score (shows at the Continental Club and C-Boy's are listed for tonight without start times), since there were no posts in the last hour and the newest Google review is about two weeks old; foot traffic is excluded for now.",
+        "social_norm_method": "no 4-week baseline yet, so posts_last_hour x 10, capped at 100"
+      },
+      "anomaly": false,
+      "reviews": {
+        "as_of": "2026-10-20T00:11:24Z",
+        "count": 67,
+        "latest": [
+          {
+            "at": "2026-10-06T00:42:39.253Z",
+            "text": "Bonita, pero le hace falta que le echen un poquito m\u00e1s de ganas al puente, es lo que me gusta es poder ver estos coches automatizados po\u2026",
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-07-01T22:27:10.461Z",
+            "text": "\u8857\u4e2d\u306b\u7d9a\u304f\u8cd1\u3084\u304b\u306a\u901a\u308a\u3002\u9031\u672b\u306f\u591a\u304f\u306e\u4eba\u3067\u8cd1\u308f\u3063\u3066\u3044\u307e\u3059\u3002",
+            "stars": 4,
+            "initial": null
+          },
+          {
+            "at": "2026-05-19T11:22:22.147Z",
+            "text": "Lame by Pedestrian-heavy city standards. But this is Texas so let\u2019s appreciate what the city planners have done to push travelers here f\u2026",
+            "stars": 4,
+            "initial": null
+          }
+        ],
+        "photos": [
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLfnip05J7Umnxp1K15KfHtZl86GLR5T9WHvP-KbhZE3YLzn7e29kFRT2xJueKDAYHVnADrzvPTpVxqzoasNADSdlAvUJzLpTnn2OGNWdFoYVwQybPXnGEVpD3PJ5-T_eyJ3XeSiFiiOYhME=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLfAHlUS95PeWtjScGZkMvKgxSF20P0Yj8_5jrHGwyCYvYHqml066z_anc6PkkB5L_wEruhlf-P0MgDwX0B2K8hlf3NkvUOb50fV-I2JU1eYgkXvZM_ASQ-w7PShdk80Ur5Kgg2oienYX6aM=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLeTmsIy0NG336i9H-aLcuEWF7ehKtdt1iM0VfyMA2k6fuPnBTD4U9VWOiYPzRgrue7JQsi_epvo9czPGvSKm5pd0LAFFQiJOTk-WAnvPq1PC_Di7wTB1ITmK2uxGplLV80irbKlvqunm2zk=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLdx9uIZg79w6xRnrfwZMCFE2dKQVfKtAkO-dTyZ519l1MLiCwMh4tzCiwcLx-sP2hdSf3s_pecB_fSpsOVfiyx3NGRsPeGO3jPGly0hWGaKWvg_3xZ47i9tuQatIpO8YncP4_noP4a2XKXi=k-no"
+        ],
+        "rating": 4.7,
+        "source": "google_maps",
+        "trend_7d": null
+      },
+      "summary": "Tonight's listings include Eve Monsees & Mike Buck and Dale Watson at the Continental Club plus Jim Ortiz & The Ballroom Destroyers at C-Boy's, though start times aren't listed. Traffic is steady nearby, but an urgent crash on the Ben White westbound frontage road about 2.3 miles south is worth routing around.",
+      "upcoming": [
+        {
+          "url": "https://austin.showlists.net/",
+          "when": "2026-10-19",
+          "title": "Eve Monsees & Mike Buck at the Continental Club",
+          "source": "austin.showlists.net"
+        },
+        {
+          "url": "https://austin.showlists.net/",
+          "when": "2026-10-19",
+          "title": "Dale Watson at the Continental Club",
+          "source": "austin.showlists.net"
+        },
+        {
+          "url": "https://austin.showlists.net/",
+          "when": "2026-10-19",
+          "title": "Jim Ortiz & The Ballroom Destroyers at C-Boy's",
+          "source": "austin.showlists.net"
+        },
+        {
+          "url": "https://austin.showlists.net/",
+          "when": "2026-10-20",
+          "title": "Carolyn Wonderland & Shelley King at the Continental Club",
+          "source": "austin.showlists.net"
+        },
+        {
+          "url": "https://austin.showlists.net/",
+          "when": "2026-10-20",
+          "title": "Kevin McKinney at C-Boy's",
+          "source": "austin.showlists.net"
+        },
+        {
+          "url": "https://austin.showlists.net/",
+          "when": "2026-10-21",
+          "title": "Louisiana Surf Department at the Continental Club",
+          "source": "austin.showlists.net"
+        },
+        {
+          "url": "https://austin.showlists.net/",
+          "when": "2026-10-22",
+          "title": "Casper Rawls at the Continental Club",
+          "source": "austin.showlists.net"
+        },
+        {
+          "url": "https://austin.showlists.net/",
+          "when": "2026-10-22",
+          "title": "Giddy Up Go at Guero's",
+          "source": "austin.showlists.net"
+        }
+      ],
+      "posts_last_hour": 0
+    },
+    "updated_at": "2026-10-20T00:13:27.098829+00:00"
+  },
+  {
+    "id": "the-domain",
+    "name": "The Domain",
+    "lat": 30.4021,
+    "lng": -97.7253,
+    "city": "Austin, TX",
+    "record": {
+      "now": [],
+      "live": {
+        "webcam": {
+          "url": "https://its.txdot.gov/its/District/AUS/cameras",
+          "name": "LP-1 @ Stonelake Rd",
+          "dist_mi": 0.23
+        },
+        "traffic": {
+          "note": "Traffic Hazard at 2000-2200 W Braker Ln (1.2 mi) +1 more within 3 mi",
+          "as_of": "2026-10-20T00:11:37+00:00",
+          "level": "Quiet",
+          "source": "TxDOT Austin + City of Austin"
+        },
+        "weather": {
+          "cond": "Partly Cloudy",
+          "hour": "2026-10-19T19:00:00-05:00",
+          "temp": 73,
+          "unit": "F",
+          "wind": "Calm",
+          "source": "NWS"
+        }
+      },
+      "meta": {
+        "anomaly": false,
+        "last_run": {
+          "social": "2026-10-20T00:11:13Z",
+          "curator": "2026-10-20T00:13:27.098829+00:00",
+          "reviews": "2026-10-20T00:11:32.626309+00:00",
+          "sensors": "2026-10-20T00:11:42.779923+00:00",
+          "calendar": "2026-10-19T23:33:42.443645+00:00"
+        },
+        "gmaps_url": "https://www.google.com/maps/search/?api=1&query=The+Domain+Austin+TX",
+        "sensors_gaps": {
+          "checked_at": "2026-10-19T23:32:55+00:00",
+          "foot_traffic": "Google popular times not retrievable from plain web fetch; not written"
+        },
+        "txdot_camera": {
+          "name": "LP-1 @ Stonelake Rd",
+          "icd_id": "LP-1 @ Stonelake Rd (11200) 30",
+          "dist_mi": 0.23,
+          "page_url": "https://its.txdot.gov/its/District/AUS/cameras"
+        },
+        "social_hourly": [
+          {
+            "hour": "2026-10-19T23:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 3
+          },
+          {
+            "hour": "2026-10-20T00:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          }
+        ],
+        "gmaps_place_id": "ChIJBTs97HHMRIYRIAQ_ZGynxHc",
+        "nws_hourly_url": "https://api.weather.gov/gridpoints/EWX/157,97/forecast/hourly",
+        "rating_history": [
+          {
+            "date": "2026-10-20",
+            "count": 14685,
+            "rating": 4.6
+          }
+        ],
+        "gmaps_place_url": "https://www.google.com/maps/search/?api=1&query=The%20Domain&query_place_id=ChIJBTs97HHMRIYRIAQ_ZGynxHc",
+        "social_velocity": 0,
+        "social_velocity_as_of": "2026-10-20T00:08:44Z"
+      },
+      "social": [
+        {
+          "ts": "2026-10-19T23:29:52Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesbU5zqsDD/",
+          "text": "\u2728",
+          "handle": "@_ibrahimesenn",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/857011418_18120722308822986_2819871701933875641_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&cb=30a688f7-99daaf84&ig_cache_key=NDAxMTcwMTU1MTc5NTcxNjI5MQ%3D%3D.3-ccb7-5-cb30a688f7-99daaf84&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTEyLmhkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=DF5DmxGCgJEQ7kNvwEkEBld&_nc_oc=AdqPbvVtKZKz8S6ZVqC3HupIBATHRo-6hhP0XcJrpVZEE69Edc5fGtR5A08emvfTmwE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=8&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=znBxBdEhOSKjazOacqSfMg&_nc_ss=7a3ba&oh=00_AQPUpvWhJD-s_LOeByTz43Iz8YfhAEtODptcR28rNnKxoA&oe=6ADC8B89",
+          "engagement": 14
+        },
+        {
+          "ts": "2026-10-19T23:10:08Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesZ59ExP0N/",
+          "text": "Love this day dress \ud83e\ude76\ud83e\ude76\ud83e\ude76\ud83e\ude76",
+          "handle": "@victoria.eliz.barrera",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/857625567_18095890379412870_8702298184337036405_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=106&cb=30a688f7-99daaf84&ig_cache_key=NDAxMTY5NTMwMTgzMTQ5MDgyOTE4MDk1ODkwMzc2NDEyODcw.3-ccb7-5-cb30a688f7-99daaf84&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEzMjAuc2RyLnZpZGVvX3VzZXJfc2VsZWN0ZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=RgdY3tgzlx8Q7kNvwHxHV4E&_nc_oc=AdoMXWLY1VzOfDUi7v5-okt3kQWyfrKR7BvYhYli6G7NMRUONjPiaq8HgEFno5M84w8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=znBxBdEhOSKjazOacqSfMg&_nc_ss=7a3ba&oh=00_AQOuipMcnwOlGxJ7FML4iUhOAHRhWaqVJsXUbk7HvzgEEA&oe=6ADC941F",
+          "engagement": 5
+        },
+        {
+          "ts": "2026-10-19T23:09:44Z",
+          "net": "IG",
+          "url": "https://www.instagram.com/p/DesZNkLxH_t/",
+          "text": "Soy muy afortunada, Dios siempre me rodea de personas maravillosas y con ellas no fue una excepci\u00f3n \ud83e\udd79\ud83e\ude75\u2728\ud83c\udf78\n\n#babyshowerideas #girls #fyp #momboy #dinner",
+          "handle": "@lusneel",
+          "media_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.71878-15/851111308_1808716750338361_4620493260427933023_n.jpg?stp=dst-jpegr_e15_p360x360_tt6&_nc_cat=110&cb=30a688f7-99daaf84&ig_cache_key=NDAxMTY5MjI1MTQ0ODM3NzMyNTQxNzg0NzQxMzU3Nzc5NTg%3D.3-ccb7-5-cb30a688f7-99daaf84&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5oZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=DoKE0ZJlCoAQ7kNvwFi05nc&_nc_oc=Adqz32Jr4RhAV83GcpCNC50Zr6tJsQA-otN_rYtPaYZ3pSWHeXXsqWQi4hGIk12z1eA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=znBxBdEhOSKjazOacqSfMg&_nc_ss=7a3ba&oh=00_AQN9xPne3kq7W7tHhq8EyB_71C4XqzPyrYMzA_G_cHj0Pg&oe=6ADC8464",
+          "engagement": 43
+        }
+      ],
+      "volume": {
+        "band": "Humming",
+        "score": 30.8,
+        "inputs": {
+          "review_recency": 98.0,
+          "event_proximity": 32.9,
+          "social_velocity_norm": 10.0,
+          "foot_vs_baseline_norm": null
+        },
+        "missing": [],
+        "weights": {
+          "review_recency": 0.1429,
+          "event_proximity": 0.3571,
+          "social_velocity_norm": 0.5,
+          "foot_vs_baseline_norm": 0
+        },
+        "excluded": [
+          "foot_traffic"
+        ],
+        "computed_at": "2026-10-20T00:13:16Z",
+        "explanation": "A Google review from about 3 hours ago did most of the work, with 1 Instagram post in the last hour adding a little while the next listed event (Pettober on Saturday) is still days away; foot traffic is excluded for now.",
+        "social_norm_method": "no 4-week baseline yet, so posts_last_hour x 10, capped at 100"
+      },
+      "anomaly": false,
+      "reviews": {
+        "as_of": "2026-10-20T00:11:24Z",
+        "count": 14685,
+        "latest": [
+          {
+            "at": "2026-10-19T20:50:53.060Z",
+            "text": "I have already 3/6 sessions with Pure White and I can\u2019t recommend this place enough!!! I am so much more confident in my smile now thank\u2026",
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-10-17T20:35:24.838Z",
+            "text": "I didnt get a name, but white big blonde lady with a bun , came off super rude, mom and I came in with my son and his bike, she could ha\u2026",
+            "stars": 1,
+            "initial": null
+          },
+          {
+            "at": "2026-10-16T22:34:23.835Z",
+            "text": "It has a good variety of shops and plenty of parking. However, the slopes make it difficult for people on wheel chairs to traverse.",
+            "stars": 4,
+            "initial": null
+          }
+        ],
+        "photos": [
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLcY1qfXitMzyEC0KrD743VdHkJZK87MJ_MR1yBtWDwckPzu5TH4qP89Ba_nz_urtaXXed_aiPHe4obtgNi3ilJYnRD7D5tjUaueJIFjL66bt8iG5kCG2NVkZ6BiRpIaYsEnoYEZ67gyt8uz=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLdMQkE9G-axx-m_4WT3TNPDhaItRgISj7F3d5gbWrokoT8YpcnffHNzVVyjpXNr6Ewd52O2OUozgpMa8Me8o0-4Ypk-7v3k6NDjXEJoFJv58Qbkl7b_LwPNQ9TH1NJ0wwJW1yX8YdzBGXsO=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLdzPtC0V3oI0VxP0lqS6RgxTmsyBo9sWvFcr1NDuc5NCjLflgIZxZrmF1qVPxw5dAVbgz9kGDeqVJJfzwGz_qjHJ31tDOKPW8ICWfBWSxe9keTP7-OpugWKsC8Clsc5KMg7kLm6IIV7c-0g=k-no",
+          "https://lh3.googleusercontent.com/grass-cs/AABkmLcrJ1hPamiFUTqsMBdE4CihBbvpR-u6Tl4MhQgz8yvT1V8-GcX5swcV4pvfBBIzQHG9boxfFztRbv6njgw46wP5_Sf-b2yyRQU4DTDdadPmGjgZLs0k0rlhVQfHdHYg5Cni4DM875klIzT1=k-no"
+        ],
+        "rating": 4.6,
+        "source": "google_maps",
+        "trend_7d": null
+      },
+      "summary": "Nothing is listed at The Domain tonight, and traffic nearby is quiet apart from a traffic hazard on W Braker Ln about 1.2 miles away. Next up is Pettober with Boogaloo and Swing Shift Trio on Saturday, Oct 24, followed by salsa night at Gloria's that evening.",
+      "upcoming": [
+        {
+          "url": "https://www.songkick.com/metro-areas/9179-us-austin/this-weekend",
+          "when": "2026-10-24",
+          "title": "Pettober 2026 with Boogaloo and Swing Shift Trio",
+          "source": "songkick.com"
+        },
+        {
+          "url": "https://golatindance.com/event/salsa-night-at-glorias-domain/2026-10-03/",
+          "when": "2026-10-24T23:00:00-05:00",
+          "title": "Salsa Night at Gloria's (weekly Saturday)",
+          "source": "golatindance.com"
+        }
+      ],
+      "posts_last_hour": 1
+    },
+    "updated_at": "2026-10-20T00:13:27.098829+00:00"
+  },
+  {
+    "id": "zilker-park",
+    "name": "Zilker Park",
+    "lat": 30.2669,
+    "lng": -97.7729,
+    "city": "Austin, TX",
+    "record": {
+      "now": [],
+      "live": {
+        "webcam": {
+          "url": "https://its.txdot.gov/its/District/AUS/cameras",
+          "name": "LP-1 @ Barton Springs Blvd",
+          "dist_mi": 0.24
+        },
+        "traffic": {
+          "note": "No active incidents within 3 mi; 0 full and 3 partial lane closures within 0.5 mi",
+          "as_of": "2026-10-20T00:11:37+00:00",
+          "level": "Quiet",
+          "source": "TxDOT Austin + City of Austin"
+        },
+        "weather": {
+          "cond": "Partly Cloudy",
+          "hour": "2026-10-19T19:00:00-05:00",
+          "temp": 74,
+          "unit": "F",
+          "wind": "Calm",
+          "source": "NWS"
+        }
+      },
+      "meta": {
+        "anomaly": false,
+        "last_run": {
+          "social": "2026-10-20T00:11:13Z",
+          "curator": "2026-10-20T00:13:27.098829+00:00",
+          "reviews": "2026-10-20T00:04:13Z",
+          "sensors": "2026-10-20T00:11:42.779923+00:00",
+          "calendar": "2026-10-19T23:33:42.443645+00:00"
+        },
+        "gmaps_url": "https://www.google.com/maps/search/?api=1&query=Zilker+Park+Austin+TX",
+        "sensors_gaps": {
+          "checked_at": "2026-10-19T23:32:55+00:00",
+          "foot_traffic": "Google popular times not retrievable from plain web fetch; not written"
+        },
+        "txdot_camera": {
+          "name": "LP-1 @ Barton Springs Blvd",
+          "icd_id": "LP-1 @ Barton Springs Blvd (500) 66",
+          "dist_mi": 0.24,
+          "page_url": "https://its.txdot.gov/its/District/AUS/cameras"
+        },
+        "social_hourly": [
+          {
+            "hour": "2026-10-19T23:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          },
+          {
+            "hour": "2026-10-20T00:00:00Z",
+            "as_of": "2026-10-20T00:11:13Z",
+            "count": 0
+          }
+        ],
+        "gmaps_place_id": "ChIJ22j54Ia1RIYRunKXejw_UJs",
+        "nws_hourly_url": "https://api.weather.gov/gridpoints/EWX/155,91/forecast/hourly",
+        "rating_history": [
+          {
+            "date": "2026-10-20",
+            "count": 6323,
+            "rating": 4.8
+          }
+        ],
+        "gmaps_place_url": "https://www.google.com/maps/search/?api=1&query=Zilker%20Metropolitan%20Park&query_place_id=ChIJ22j54Ia1RIYRunKXejw_UJs",
+        "social_velocity": 0,
+        "gmaps_place_title": "Zilker Metropolitan Park",
+        "gmaps_place_address": "Austin, TX 78746",
+        "social_velocity_as_of": "2026-10-20T00:08:44Z"
+      },
+      "social": [],
+      "volume": {
+        "band": "Quiet",
+        "score": 25.5,
+        "inputs": {
+          "review_recency": 96.3,
+          "event_proximity": 32.9,
+          "social_velocity_norm": 0.0,
+          "foot_vs_baseline_norm": null
+        },
+        "missing": [],
+        "weights": {
+          "review_recency": 0.1429,
+          "event_proximity": 0.3571,
+          "social_velocity_norm": 0.5,
+          "foot_vs_baseline_norm": 0
+        },
+        "excluded": [
+          "foot_traffic"
+        ],
+        "computed_at": "2026-10-20T00:13:16Z",
+        "explanation": "Review recency did most of the work (the latest Google review was about 6 hours ago) alongside distant events (the Taniguchi Tidy-Up on Saturday is about 113 hours away), with no posts in the last hour; foot traffic is excluded for now.",
+        "social_norm_method": "no 4-week baseline yet, so posts_last_hour x 10, capped at 100"
+      },
+      "anomaly": false,
+      "reviews": {
+        "as_of": "2026-10-20T00:04:13Z",
+        "count": 6323,
+        "latest": [
+          {
+            "at": "2026-10-19T18:01:42.600Z",
+            "text": null,
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-10-19T03:34:18.534Z",
+            "text": null,
+            "stars": 5,
+            "initial": null
+          },
+          {
+            "at": "2026-10-18T19:50:31.311Z",
+            "text": null,
+            "stars": 5,
+            "initial": null
+          }
+        ],
+        "photos": [],
+        "rating": 4.8,
+        "source": "google_maps",
+        "trend_7d": null
+      },
+      "summary": "Zilker Park has nothing listed tonight and traffic around it is quiet, though recent visitor reviews mention construction near the Barton Springs area. The next events are the Taniguchi Tidy-Up at Zilker Botanical Garden on Saturday and StrawFest at UMLAUF on Sunday at 11am CT.",
+      "upcoming": [
+        {
+          "url": "https://ma.to/event/taniguchi-tidy-up-24-oct-2026",
+          "when": "2026-10-24",
+          "title": "Taniguchi Tidy-Up at Zilker Botanical Garden",
+          "source": "ma.to"
+        },
+        {
+          "url": "https://www.umlaufsculpture.org/strawfest",
+          "when": "2026-10-25T11:00:00-05:00",
+          "title": "StrawFest at UMLAUF Sculpture Garden",
+          "source": "umlaufsculpture.org"
+        }
+      ],
+      "posts_last_hour": 0
+    },
+    "updated_at": "2026-10-20T00:13:27.098829+00:00"
+  }
+]
