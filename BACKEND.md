@@ -26,8 +26,8 @@ VITE_HUM_KEY=<supabase anon key>
 
 Any URL that returns the array below works (Supabase REST, a public JSON file, a gist raw URL).
 
-**Default, no config:** the app reads `hum-live.json` from this repo's `live-data` branch
-(`https://raw.githubusercontent.com/rishiv7/happening/live-data/hum-live.json`). The bot fleet
+**Default, no config:** the app reads `hum-live.json` from the `live-data` branch of the Yaishnavi/happening fork (where the bot fleet has write access)
+(`https://raw.githubusercontent.com/Yaishnavi/happening/live-data/hum-live.json`). The bot fleet
 commits a fresh copy there after every curator run through the GitHub Contents API. GitHub's raw CDN
 caches for up to 5 minutes, so "live" is a few minutes behind. If that URL fails, the app falls back to
 `public/hum-snapshot.json`. Replace that file with the latest export before the demo.

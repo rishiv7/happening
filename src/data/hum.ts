@@ -48,7 +48,7 @@ export const toAppPlaceId = (storeId: string) => ID_MAP[storeId] ?? storeId
 
 // Default live store: hum-live.json on the repo's `live-data` branch, which the
 // Grok Bot fleet rewrites after every curator run. Override with VITE_HUM_URL.
-const LIVE_BRANCH_URL = 'https://raw.githubusercontent.com/rishiv7/happening/live-data/hum-live.json'
+const LIVE_BRANCH_URL = 'https://raw.githubusercontent.com/Yaishnavi/happening/live-data/hum-live.json'
 const STORE_URL = (import.meta.env.VITE_HUM_URL as string | undefined) || LIVE_BRANCH_URL
 const STORE_KEY = import.meta.env.VITE_HUM_KEY as string | undefined
 const SNAPSHOT_URL = '/hum-snapshot.json'
